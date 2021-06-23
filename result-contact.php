@@ -43,7 +43,7 @@ $_SESSION["email"]=$email;
 //=====Ajout du message au format HTML
     
     $message ="<html><head></head><body>
-<b>DEMANDE DE CONTACT -  ".$nom."&nbsp; </b><br>
+<b>DEMANDE DE contact -  ".$nom."&nbsp; </b><br>
 <br>
 
 

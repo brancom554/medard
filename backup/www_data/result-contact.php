@@ -103,7 +103,7 @@ $_SESSION["email"]=$email;
 //=====Ajout du message au format HTML
     
     $message_html="<html><head></head><body>
-<b>DEMANDE DE CONTACT - ALLIANCE TRUST FINANCE ".$nom."&nbsp; </b><br>
+<b>DEMANDE DE contact - ALLIANCE TRUST FINANCE ".$nom."&nbsp; </b><br>
 <br>
 
 

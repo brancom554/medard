@@ -8,7 +8,7 @@
     <meta name="keywords" content="credit,banque, services">
     <meta name="author" content="MYGENO-GROUP">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Contactez-nous | MYGENO-GROUP Banque Services</title>
+    <title>contactez-nous | MYGENO-GROUP Banque Services</title>
     <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon">
     <!-- Goole Font -->
     <link href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700" rel="stylesheet"> 
@@ -71,10 +71,10 @@
         <div class="row">        
             <div class="col-sm-10 col-md-12 col-lg-12">
                 <div class="intro_text">
-                    <h1>Contactez-nous</h1>
+                    <h1>contactez-nous</h1>
                     <div class="pages_linka">
                         <a href="#" title="">Accueil</a>
-                        <a href="#" title="" class="active">Contact</a>
+                        <a href="#" title="" class="active">contact</a>
                     </div>
                 </div>
             </div>
@@ -83,7 +83,7 @@
 </section>  <!-- End title header -->
 
 
-<!--========={ Contact Info }========-->
+<!--========={ contact Info }========-->
 <section class="contact_info_wrapper">
     <div class="container">  
         <div class="row">                  
@@ -114,7 +114,7 @@
             </div>
         </div>
     </div>
-</section> <!-- End Contact Info -->
+</section> <!-- End contact Info -->
 
 
 

@@ -49,7 +49,7 @@ $(document).ready(function () {
         iframe.attr('src',src);
     }
 
-    // Contact Form
+    // contact Form
 	
 	$('#contactform').submit(function(){
 		var action = $(this).attr('action');

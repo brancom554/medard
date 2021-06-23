@@ -81,7 +81,7 @@ function googleTranslateElementInit() {
                     <h3 class="footer_item_title">Support</h3>
                     <ul class="list-unstyled">
                         <li><a href="#">Notre histoire</a></li>
-                        <li><a href="#">Contacts</a></li>
+                        <li><a href="#">contacts</a></li>
                         <li><a href="#">Devenir client</a></li>
                         
                     </ul>

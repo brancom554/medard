@@ -137,18 +137,18 @@
 								<br>
                                 
 								<b>Pourquoi le crédit professionnel ?</b><br>
-L'entreprise a besoin de financer en permanence différents investissements : un fonds de commerce lors d'une création
+L'entreprise a besoin de financer.html en permanence différents investissements : un fonds de commerce lors d'une création
  ou d'une extension de l'activité, un rachat de titres sociaux, du matériel professionnel, des véhicules destinés au 
  fonctionnement de l'exploitation ....
 Si le premier réflexe des professionnels est de se tourner vers les banques, aujourd’hui, il existe d’autres moyens 
-pour financer les besoins de son entreprise. Alors, oui, obtenir son crédit professionnel en ligne constitue véritablement
+pour financer.html les besoins de son entreprise. Alors, oui, obtenir son crédit professionnel en ligne constitue véritablement
  une alternative intéressante pour les entrepreneurs.<br>
 
 <b>Convaincre le banquier et négocier son prêt professionnel</b><br>
 
 La recherche d'un crédit professionnel, peut paraître périlleuse surtout pour les néophytes. 
 En effet le RDV chez le banquier peut faire peur aux entrepreneurs en devenir. Pourtant le banquier
- doit, a priori, être considéré comme un allié. En effet, son rôle est de financer les projets d'entreprise 
+ doit, a priori, être considéré comme un allié. En effet, son rôle est de financer.html les projets d'entreprise 
  ... Il faut penser que le banquier recherche en permanence de nouveaux clients dont font partie les entrepreneurs...
  mais il ne peut pas non plus faire n'importe quoi et il a un avantage considérable : il peut choisir ses clients.
 
@@ -339,19 +339,19 @@ Ainsi il convient de se préparer à cet entretien afin de démontrer que le ban
                             <h2>Nos services</h2>
                             <div class="event_signle_3">
                                 <div class="corses_banner">
-                                    <a href="compte-courant.php" title=""><img src="images/courses/courses-1.jpg" alt="" class="img-fluid"></a>
+                                    <a href="compte-courant.html.php" title=""><img src="images/courses/courses-1.jpg" alt="" class="img-fluid"></a>
                                 </div>
                                 <div class="event_title">
-                                    <h4><a href="compte-courant.php" title="">Compte courant</a></h4>
+                                    <h4><a href="compte-courant.html.php" title="">Compte courant</a></h4>
                                     <p></p>
                                 </div>
                             </div>                            
                             <div class="event_signle_3">
                                 <div class="corses_banner">
-                                    <a href="compte-epargne.php" title=""><img src="images/courses/courses-2.jpg" alt="" class="img-fluid"></a>
+                                    <a href="compte-epargne.html.php" title=""><img src="images/courses/courses-2.jpg" alt="" class="img-fluid"></a>
                                 </div>
                                 <div class="event_title">
-                                    <h4><a href="compte-epargne.php" title="">Compte épargne</a></h4>
+                                    <h4><a href="compte-epargne.html.php" title="">Compte épargne</a></h4>
                                     <p></p>
                                 </div>
                             </div>
@@ -422,7 +422,7 @@ Ainsi il convient de se préparer à cet entretien afin de démontrer que le ban
 							Nous vous proposons un nouveau service : le crédit sur l'honneur. C'est un crédit dont le montant minimum est fixé à 12.000
 							</p>
                             <div class="cources_btn d-flex justify-content-between">
-                               <a href="#" title="" class="apply_btn">Contactez-nous<i class="flaticon-angle-arrow-pointing-to-right"></i></a> 
+                               <a href="#" title="" class="apply_btn">contactez-nous<i class="flaticon-angle-arrow-pointing-to-right"></i></a> 
                                 <span></span>      
                             </div>                     
                         </div>   
@@ -437,7 +437,7 @@ Ainsi il convient de se préparer à cet entretien afin de démontrer que le ban
                             <h3>Financement achat</h3> 
                             <span> David Martin</span>  
                             <p>
-							Nous vous offrons la possibilité de financer vos achats en vous apuyant sur nous et vous paierez grâce à échéancier.
+							Nous vous offrons la possibilité de financer.html vos achats en vous apuyant sur nous et vous paierez grâce à échéancier.
 							</p>
                             <div class="cources_btn d-flex justify-content-between">
                                <a href="#" title="" class="apply_btn">Faire une demande<i class="flaticon-angle-arrow-pointing-to-right"></i></a> 
@@ -458,7 +458,7 @@ Ainsi il convient de se préparer à cet entretien afin de démontrer que le ban
 							Nous vous aidons à encaisser les chèques émis à votre endroit et déposons les montants sur votre compte bancaire. C'est un service gratuit pour soulager nos clients et partenaires.
 							</p>
                             <div class="cources_btn d-flex justify-content-between">
-                               <a href="#" title="" class="apply_btn">Contactez-nous<i class="flaticon-angle-arrow-pointing-to-right"></i></a> 
+                               <a href="#" title="" class="apply_btn">contactez-nous<i class="flaticon-angle-arrow-pointing-to-right"></i></a> 
                                 <span></span>      
                             </div>                     
                         </div>   

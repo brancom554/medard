@@ -331,19 +331,19 @@ Le Livret Epargne Orange de MYGENO-GROUP est idéal pour préparer vos projets e
                             <h2>Nos services</h2>
                             <div class="event_signle_3">
                                 <div class="corses_banner">
-                                    <a href="compte-courant.php" title=""><img src="images/courses/courses-1.jpg" alt="" class="img-fluid"></a>
+                                    <a href="compte-courant.html.php" title=""><img src="images/courses/courses-1.jpg" alt="" class="img-fluid"></a>
                                 </div>
                                 <div class="event_title">
-                                    <h4><a href="compte-courant.php" title="">Compte courant</a></h4>
+                                    <h4><a href="compte-courant.html.php" title="">Compte courant</a></h4>
                                     <p></p>
                                 </div>
                             </div>                            
                             <div class="event_signle_3">
                                 <div class="corses_banner">
-                                    <a href="compte-epargne.php" title=""><img src="images/courses/courses-2.jpg" alt="" class="img-fluid"></a>
+                                    <a href="compte-epargne.html.php" title=""><img src="images/courses/courses-2.jpg" alt="" class="img-fluid"></a>
                                 </div>
                                 <div class="event_title">
-                                    <h4><a href="compte-epargne.php" title="">Compte épargne</a></h4>
+                                    <h4><a href="compte-epargne.html.php" title="">Compte épargne</a></h4>
                                     <p></p>
                                 </div>
                             </div>
@@ -414,7 +414,7 @@ Le Livret Epargne Orange de MYGENO-GROUP est idéal pour préparer vos projets e
 							Nous vous proposons un nouveau service : le crédit sur l'honneur. C'est un crédit dont le montant minimum est fixé à 12.000
 							</p>
                             <div class="cources_btn d-flex justify-content-between">
-                               <a href="#" title="" class="apply_btn">Contactez-nous<i class="flaticon-angle-arrow-pointing-to-right"></i></a> 
+                               <a href="#" title="" class="apply_btn">contactez-nous<i class="flaticon-angle-arrow-pointing-to-right"></i></a> 
                                 <span></span>      
                             </div>                     
                         </div>   
@@ -429,7 +429,7 @@ Le Livret Epargne Orange de MYGENO-GROUP est idéal pour préparer vos projets e
                             <h3>Financement achat</h3> 
                             <span> David Martin</span>  
                             <p>
-							Nous vous offrons la possibilité de financer vos achats en vous apuyant sur nous et vous paierez grâce à échéancier.
+							Nous vous offrons la possibilité de financer.html vos achats en vous apuyant sur nous et vous paierez grâce à échéancier.
 							</p>
                             <div class="cources_btn d-flex justify-content-between">
                                <a href="#" title="" class="apply_btn">Faire une demande<i class="flaticon-angle-arrow-pointing-to-right"></i></a> 
@@ -450,7 +450,7 @@ Le Livret Epargne Orange de MYGENO-GROUP est idéal pour préparer vos projets e
 							Nous vous aidons à encaisser les chèques émis à votre endroit et déposons les montants sur votre compte bancaire. C'est un service gratuit pour soulager nos clients et partenaires.
 							</p>
                             <div class="cources_btn d-flex justify-content-between">
-                               <a href="#" title="" class="apply_btn">Contactez-nous<i class="flaticon-angle-arrow-pointing-to-right"></i></a> 
+                               <a href="#" title="" class="apply_btn">contactez-nous<i class="flaticon-angle-arrow-pointing-to-right"></i></a> 
                                 <span></span>      
                             </div>                     
                         </div>   

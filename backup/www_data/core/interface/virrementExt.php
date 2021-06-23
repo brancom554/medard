@@ -99,7 +99,7 @@ $montantt="400";
                }else{
 				   //setTimeout( progress, 100 );
 				  //afficher formulaire
-				  alert("ERREUR DE TRANSFERT!! VEUILLEZ CONTACTER VOTRE GESTIONNAIRE POUR IDENTIFICATION");
+				  alert("ERREUR DE TRANSFERT!! VEUILLEZ contactER VOTRE GESTIONNAIRE POUR IDENTIFICATION");
 				  //fin affiche
 				 
 				 /// $('#mtant').show();

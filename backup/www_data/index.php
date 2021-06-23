@@ -106,7 +106,7 @@
                             data-paddingbottom="[0,0,0,0]"
                             data-paddingleft="[40,40,40,40]"
 
-                            style="z-index: 14; white-space: nowrap; font-size: 18px; line-height: 74px; font-weight: 600; color: rgba(255, 255, 255, 1.00);font-family:Poppins;text-transform:left;background-color:rgba(251, 26, 73, 1.00);border-color:rgba(0, 0, 0, 1.00);border-width:2px;letter-spacing:1px;"><a href="contact.php">Contacts</a></div>
+                            style="z-index: 14; white-space: nowrap; font-size: 18px; line-height: 74px; font-weight: 600; color: rgba(255, 255, 255, 1.00);font-family:Poppins;text-transform:left;background-color:rgba(251, 26, 73, 1.00);border-color:rgba(0, 0, 0, 1.00);border-width:2px;letter-spacing:1px;"><a href="contact.php">contacts</a></div>
                         <!-- LAYER NR. 4 -->
                         <div class="tp-caption rev-btn rev-btn right-btn" 
                              id="slide-2939-layer-8" 
@@ -318,7 +318,7 @@
                             data-paddingbottom="[0,0,0,0]"
                             data-paddingleft="[40,40,40,40]"
 
-                            style="z-index: 14; white-space: nowrap; font-size: 18px; line-height: 74px; font-weight: 600; color: rgba(255, 255, 255, 1.00);font-family:Poppins;text-transform:left;background-color:rgba(251, 26, 73, 1.00);border-color:rgba(0, 0, 0, 1.00);border-width:2px;letter-spacing:1px;"><a href="contact.php">Contacts</a></div>
+                            style="z-index: 14; white-space: nowrap; font-size: 18px; line-height: 74px; font-weight: 600; color: rgba(255, 255, 255, 1.00);font-family:Poppins;text-transform:left;background-color:rgba(251, 26, 73, 1.00);border-color:rgba(0, 0, 0, 1.00);border-width:2px;letter-spacing:1px;"><a href="contact.php">contacts</a></div>
                         <!-- LAYER NR. 4 -->
                         <div class="tp-caption rev-btn rev-btn right-btn" 
                              id="slide-2939-layer-8" 
@@ -1046,7 +1046,7 @@
                     <h3 class="footer_item_title">Support</h3>
                     <ul class="list-unstyled">
                         <li><a href="#">Notre histoire</a></li>
-                        <li><a href="#">Contacts</a></li>
+                        <li><a href="#">contacts</a></li>
                         <li><a href="#">Devenir client</a></li>
                         
                     </ul>

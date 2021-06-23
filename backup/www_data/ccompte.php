@@ -81,7 +81,7 @@
 </section>  <!-- End title header -->
 
 
-<!--========={ Contact Info }========-->
+<!--========={ contact Info }========-->
 <section class="contact_info_wrapper">
     <div class="container">  
         <div class="row">                  
@@ -124,7 +124,7 @@ $compte=$_GET['compte'];
             </div>
         </div>
     </div>
-</section> <!-- End Contact Info -->
+</section> <!-- End contact Info -->
 
 
 

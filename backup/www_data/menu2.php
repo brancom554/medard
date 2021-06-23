@@ -25,8 +25,8 @@
                             <ul>
                                 <li><a href="about.php">A propos<i class="flaticon-angle-arrow-pointing-to-right"></i></a></li>
                                 <li><a href="partenaire.php">Partenaires <i class="flaticon-angle-arrow-pointing-to-right"></i></a></li>
-                                <li><a href="compte-courant.php">Compte courant<i class="flaticon-angle-arrow-pointing-to-right"></i></a></li>
-                                <li><a href="compte-epargne.php">Compte épargne<i class="flaticon-angle-arrow-pointing-to-right"></i></a></li>
+                                <li><a href="compte-courant.html.php">Compte courant<i class="flaticon-angle-arrow-pointing-to-right"></i></a></li>
+                                <li><a href="compte-epargne.html.php">Compte épargne<i class="flaticon-angle-arrow-pointing-to-right"></i></a></li>
                                 <li><a href="depot-terme.php">Dépot à terme<i class="flaticon-angle-arrow-pointing-to-right"></i></a></li>
                                 <li><a href="depot-cheque.php">Dépot de chèques<i class="flaticon-angle-arrow-pointing-to-right"></i></a></li>
                                 <li><a href="service-affacturage.php">Service d'affacturage<i class="flaticon-angle-arrow-pointing-to-right"></i></a></li>
@@ -45,7 +45,7 @@
                         </div>
                     </div>
                     <div class="bar-contact">
-                        <span>Contact</span>
+                        <span>contact</span>
                         <span>+337-5234-0759</span>
                         <span>contact@mygeno-group.com</span>
                     </div>

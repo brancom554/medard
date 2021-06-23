@@ -203,7 +203,7 @@
 
             
             <div class=" col-12 col-md-12 col-lg-12 d-flex justify-content-center">
-                <a href="#" title="" class="view-more-btn">Contactez-nous</a>
+                <a href="#" title="" class="view-more-btn">contactez-nous</a>
             </div>            
         </div>
     </div>

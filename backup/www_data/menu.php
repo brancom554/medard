@@ -179,8 +179,8 @@ src="https://www.facebook.com/tr?id=316172906440895&ev=PageView&noscript=1"
                                     
                                     <li class="nav-item"><a href="#" class="nav-link dropdown_icon">Particuliers</a>
 										<ul class="navbar-nav nav mx-auto">
-											<li class="nav-item "><a href="compte-courant.php">Compte courant</a></li>
-											<li class="nav-item "><a href="compte-epargne.php">Compte épargne</a></li>
+											<li class="nav-item "><a href="compte-courant.html.php">Compte courant</a></li>
+											<li class="nav-item "><a href="compte-epargne.html.php">Compte épargne</a></li>
 											<li class="nav-item "><a href="depot-terme.php">Dépot à terme</a></li>
 											<li class="nav-item "><a href="retrait-espece.php">Retrait espèces</a></li>
 											<li class="nav-item "><a href="carte-bancaire.php">Carte bancaire</a></li>
@@ -214,7 +214,7 @@ src="https://www.facebook.com/tr?id=316172906440895&ev=PageView&noscript=1"
            
                             
                              
-							<li class="nav-item"><a href="contact.php" class="nav-link">Contact</a></li>
+							<li class="nav-item"><a href="contact.php" class="nav-link">contact</a></li>
 							
 							 <li class="nav-item"><a href="souscrire-pret.php" class="nav-link">Souscrire un prêt</a></li>    
                           
